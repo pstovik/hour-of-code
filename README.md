@@ -4,6 +4,7 @@
 # Code
 
 - [Minecraft - bludiště (blocks)](https://studio.code.org/courses/aquatic/units/1/lessons/1/levels/1?lang=cs-CZ)
+    - změna jazyka EN -> CZ - vlevo dole 
 - [Frozen - kreslení (blocks)](https://studio.code.org/courses/frozen/units/1/lessons/1/levels/1?lang=cs-CZ)
 - [Star Wars - bludiště (code as blocks)](https://studio.code.org/courses/starwars/units/1/lessons/1/levels/1?lang=cs-CZ)
 - [Minecraft - kreativita (blocks)](https://studio.code.org/courses/minecraft/units/1/lessons/1/levels/1?lang=cs-CZ)
